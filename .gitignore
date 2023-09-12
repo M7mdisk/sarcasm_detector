@@ -1,0 +1,5 @@
+*
+!.gitignore
+!main.ipynb
+!sarca_detect
+!server.py
